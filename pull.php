@@ -1,2 +1,2 @@
 <?php
-echo shell_exec("git pull git@github.com:ameyp1992/DevOpsTest.git master");
+echo shell_exec("git pull https://github.com/ameyp1992/DevOpsTest.git master");
