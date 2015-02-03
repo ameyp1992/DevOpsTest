@@ -1,2 +1,1 @@
-<?php
-echo exec("git pull master master");
+<?php shell_exec('git pull'); ?>
